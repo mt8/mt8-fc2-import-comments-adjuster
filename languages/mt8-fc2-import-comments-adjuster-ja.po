@@ -1,0 +1,49 @@
+# Copyright (C) 2015 Mt8 FC2 Import Comments Adjuster
+# This file is distributed under the same license as the Mt8 FC2 Import Comments Adjuster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mt8 FC2 Import Comments Adjuster 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/mt8-fc2-import-"
+"comments-adjuster\n"
+"POT-Creation-Date: 2015-08-14 16:02:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-15 01:06+0900\n"
+"Last-Translator: mt8 <info@mt8.biz>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: mt8-fc2-import-comments-adjuster.php:54
+msgid ""
+"Mt8 FC2 Import Comments Adjuster is enabled , but not effective. It requires "
+"Movable Type and TypePad Importer in order to work."
+msgstr ""
+"Mt8 FC2 Import Comments Adjuster が有効化されていますが、実行するには"
+"「Movable Type and TypePad」が必要です。"
+
+#. Plugin Name of the plugin/theme
+msgid "Mt8 FC2 Import Comments Adjuster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mt8/mt8-fc2-import-comments-adjuster"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"\"Mt8 Import Comments Adjuster\" is a plugin to adjust comments of importing "
+"export data of the FC2 blog."
+msgstr ""
+"\"Mt8 Import Comments Adjuster\"は、FC2ブログのエクスポートデータをインポート"
+"する際のコメント内容を調整するプラグインです。\"管理者にだけ表示を許可する"
+"\"になっているコメントは\"承認待ち\"にします。「Movable Type and TypePad "
+"Importer」を先にインストールしておいて下さい。"
+
+#. Author of the plugin/theme
+msgid "mt8.biz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mt8.biz"
+msgstr ""
